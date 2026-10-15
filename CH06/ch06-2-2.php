@@ -2,6 +2,7 @@
 function printHeader() {
     echo"<h3>SID:C113181111</h3>";
     echo"<h3>Name:Daily</h3>";
+     echo"<h3>EX02</h3>";
 }
 function rateExchange($amout, $rate)
 {
