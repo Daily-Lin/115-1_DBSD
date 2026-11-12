@@ -27,5 +27,5 @@ if(isset($_COOKIE["ItemName"])) {
 
 ?>
 
-<BR>
+<BR>1
 <a href ='CH08-5-1.php'>Receive Cookies</a>
